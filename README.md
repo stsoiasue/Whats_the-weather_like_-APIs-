@@ -18,3 +18,7 @@ Utimately i built a series of scatter plots to showcase the following relationsh
 * Humidity (%) vs. Latitude
 * Cloudiness (%) vs. Latitude
 * Wind Speed (mph) vs. Latitude
+
+## My analysis can be found here:
+
+[weather_analysis](weather_analysis/)
